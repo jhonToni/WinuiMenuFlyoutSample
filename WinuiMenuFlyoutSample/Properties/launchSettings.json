@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinuiMenuFlyoutSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinuiMenuFlyoutSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
